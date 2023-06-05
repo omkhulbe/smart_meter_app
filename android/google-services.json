@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "331828455932",
+    "project_id": "smart-meter-project-388615",
+    "storage_bucket": "smart-meter-project-388615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331828455932:android:3865bdd2426ea4c6cdea79",
+        "android_client_info": {
+          "package_name": "com.codegiants.smart_meter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331828455932-kldp60f3dq6maj5mfoo9tpii8s9npe8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLRjyZHhiJucAlOwTRbEauvWsZZNgNKLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331828455932-hlqupiekb2kaoh3iu84eqpii354davof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331828455932-7ohi13kdh8mqg3ihh5q2c2qd23viiqjd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartMeterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
